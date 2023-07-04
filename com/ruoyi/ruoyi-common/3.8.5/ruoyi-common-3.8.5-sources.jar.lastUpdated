@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 16:59:04 JST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1688025544892
+@proxy.example.com\:8080>@default-aliyunmaven-https\://maven.aliyun.com/repository/public/.lastUpdated=1688022663538
+https\://repo.maven.apache.org/maven2/.error=
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact com.ruoyi\:ruoyi-common\:jar\:sources\:3.8.5 from/to aliyunmaven (https\://maven.aliyun.com/repository/public)\: proxy.example.com

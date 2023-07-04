@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 17:05:53 JST 2023
+@proxy.example.com\:8080>@default-aliyunmaven-https\://maven.aliyun.com/repository/public/.lastUpdated=1688022870532
+https\://maven.aliyun.com/repository/public/.lastUpdated=1688025953457
+@proxy.example.com\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1688022805828
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-dependencies\:pom\:2.5.14 from/to central (https\://repo.maven.apache.org/maven2)\: proxy.example.com

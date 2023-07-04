@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 17:07:29 JST 2023
+spring-data-redis-2.5.11.jar>public=
+spring-data-redis-2.5.11-sources.jar>public=
+spring-data-redis-2.5.11.jar>aliyunmaven=
+spring-data-redis-2.5.11.pom>aliyunmaven=
+spring-data-redis-2.5.11.pom>public=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 16:59:44 JST 2023
+commons-compress-1.21.jar>aliyunmaven=
+commons-compress-1.21.pom>aliyunmaven=
+commons-compress-1.21.pom>public=
+commons-compress-1.21.jar>public=

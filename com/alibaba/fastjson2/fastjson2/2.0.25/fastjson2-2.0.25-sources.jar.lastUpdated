@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 16:58:21 JST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1688025501295
+@proxy.example.com\:8080>@default-aliyunmaven-https\://maven.aliyun.com/repository/public/.lastUpdated=1688022663448
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact com.alibaba.fastjson2\:fastjson2\:jar\:sources\:2.0.25 from/to aliyunmaven (https\://maven.aliyun.com/repository/public)\: proxy.example.com
